@@ -1,0 +1,6 @@
+{
+  "name": "Planet Jumping",
+  "description": "An immersive space portal landing experience exploring Mars, Earth, and Venus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
